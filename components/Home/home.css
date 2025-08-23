@@ -1,0 +1,21 @@
+body {
+  font-family: 'Figtree', Arial, sans-serif;
+}
+
+.home-container {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 32px;
+  background: #f5faff;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+  text-align: center;
+}
+.home-container h1 {
+  color: #4f8cff;
+  margin-bottom: 16px;
+}
+.home-container p {
+  color: #333;
+  font-size: 1rem;
+}
